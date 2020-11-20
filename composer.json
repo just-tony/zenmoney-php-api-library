@@ -16,7 +16,7 @@
     },
     "require": {
         "guzzlehttp/guzzle": "~6.3",
-        "symfony/options-resolver": "~3.3"
+        "symfony/options-resolver": "~4.4"
     },
     "config": {
         "sort-packages": true
